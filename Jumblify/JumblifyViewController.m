@@ -21,6 +21,8 @@
 
 - (NSString *)reverseString:(NSString *)stringToReverse
 {
+    
+    NSLog(@"123");
     NSMutableString *reversedString = [NSMutableString stringWithCapacity:[stringToReverse length]];
 
     [stringToReverse enumerateSubstringsInRange:NSMakeRange(0,[stringToReverse length])
