@@ -14,7 +14,6 @@
 		41D0C0B819E9F801002D0D06 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 41D0C0B619E9F801002D0D06 /* Main.storyboard */; };
 		41D0C0BA19E9F801002D0D06 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 41D0C0B919E9F801002D0D06 /* Images.xcassets */; };
 		41D0C0BD19E9F801002D0D06 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 41D0C0BB19E9F801002D0D06 /* LaunchScreen.xib */; };
-		CC5E06D61C8AA84900351186 /* ocunit2junit in Resources */ = {isa = PBXBuildFile; fileRef = CC5E06D51C8AA84900351186 /* ocunit2junit */; };
 		CCA440F71C89881200F9533F /* .gitignore.rtf in Resources */ = {isa = PBXBuildFile; fileRef = CCA440F61C89881200F9533F /* .gitignore.rtf */; };
 /* End PBXBuildFile section */
 
@@ -42,7 +41,6 @@
 		41D0C0BC19E9F801002D0D06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		41D0C0C219E9F801002D0D06 /* JumblifyTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JumblifyTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		41D0C0C719E9F801002D0D06 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		CC5E06D51C8AA84900351186 /* ocunit2junit */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ocunit2junit; sourceTree = "<group>"; };
 		CCA440F61C89881200F9533F /* .gitignore.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = .gitignore.rtf; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
@@ -92,7 +90,6 @@
 				41D0C0B619E9F801002D0D06 /* Main.storyboard */,
 				41D0C0B919E9F801002D0D06 /* Images.xcassets */,
 				41D0C0BB19E9F801002D0D06 /* LaunchScreen.xib */,
-				CC5E06D51C8AA84900351186 /* ocunit2junit */,
 				41D0C0AC19E9F801002D0D06 /* Supporting Files */,
 				CCA440F61C89881200F9533F /* .gitignore.rtf */,
 			);
@@ -206,7 +203,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				41D0C0B819E9F801002D0D06 /* Main.storyboard in Resources */,
-				CC5E06D61C8AA84900351186 /* ocunit2junit in Resources */,
 				41D0C0BD19E9F801002D0D06 /* LaunchScreen.xib in Resources */,
 				CCA440F71C89881200F9533F /* .gitignore.rtf in Resources */,
 				41D0C0BA19E9F801002D0D06 /* Images.xcassets in Resources */,
